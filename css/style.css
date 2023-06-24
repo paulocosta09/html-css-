@@ -43,6 +43,11 @@ nav {
     padding-right: 12%
 }
 
+header {
+    padding: 2%;
+
+}
+
 ul {
     list-style-type: none;
     margin: 1em;
@@ -51,4 +56,8 @@ ul {
 
 li {
     display: inline;
+}
+
+figure {
+    text-align: center;
 }
