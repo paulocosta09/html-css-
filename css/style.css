@@ -35,10 +35,20 @@ footer {
     width: 100%;
 }
 
-nav{
+nav {
     text-align: center;
-    background-color:  rgb(50, 49, 49);
+    background-color: rgb(50, 49, 49);
     font-size: 1.5em;
     float: right;
     padding-right: 12%
+}
+
+ul {
+    list-style-type: none;
+    margin: 1em;
+    padding: 1.1em;
+}
+
+li {
+    display: inline;
 }
